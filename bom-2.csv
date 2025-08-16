@@ -1,0 +1,3 @@
+﻿Name,Quantity,Component
+"U2",1," Arduino Uno R3"
+"SERVO1, SERVO3, SERVO4, SERVO5",4,"Positional Micro Servo"
